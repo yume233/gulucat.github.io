@@ -1,1 +1,0 @@
-# gulucat.github.io
