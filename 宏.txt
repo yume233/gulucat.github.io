@@ -1,0 +1,15 @@
+/ac 闲静 <wait.3>
+/ac 掌握 <wait.2>
+/ac 新颖 <wait.2>
+/ac 精密制作 <wait.3>
+/ac 精密制作 <wait.3>
+/ac 精密制作 <wait.3>
+/ac 精密制作 <wait.3>
+/ac 精密制作 <wait.3>
+/ac 阔步 <wait.2>
+/ac 新颖 <wait.2>
+/ac 坯料加工 <wait.3>
+/ac 精密制作 <wait.3>
+/ac 阔步 <wait.2>
+/ac 比尔格的祝福 <wait.3>
+/ac 模范制作
